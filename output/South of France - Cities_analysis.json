@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf",
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Investment Analyst",
+        "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies from the latest annual reports.",
+        "processing_timestamp": "2025-07-27T21:45:03.222567Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 12,
+            "section_title": "Get AI-generated overviews and summaries",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 16,
+            "section_title": "Introduction",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 15,
+            "section_title": "Introduction",
+            "importance_rank": 3
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 15,
+            "section_title": "Introduction",
+            "importance_rank": 4
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 14,
+            "section_title": "Streaming summaries for long PDFs",
+            "importance_rank": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "page_number": 26,
+            "section_title": "Set up automatic email archiving",
+            "importance_rank": 6
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 7,
+            "section_title": "Email-specific options on the Settings tab",
+            "importance_rank": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "page_number": 12,
+            "section_title": "About Acrobat PDFMaker",
+            "importance_rank": 8
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 2,
+            "section_title": "Overview of generative AI features",
+            "importance_rank": 9
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 10,
+            "section_title": "Get AI-generated answers",
+            "importance_rank": 10
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 12,
+            "refined_text": "An overview of the document is generated with section headings and summaries. Whether you're a researcher, business analyst, or student, the generative AI features help you scan your PDF documents and quickly extract the essence, key points, and insights. Selecting a summary takes you directly to the corresponding section in the document for more detailed information."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 16,
+            "refined_text": "Choose Select files and select one or multiple files to start a conversation with your documents and extract insights. You can also open any meeting transcript directly in the viewer and use Acrobat's generative AI features for insights or summaries. Acrobat online Alternatively, in Acrobat Home, select All tools , then select AI Assistant or Generative summary tool."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 15,
+            "refined_text": "View meeting details in Acrobat You can access the list of meeting transcripts from Acrobat Home in Microsoft Teams. The list of meetings is now available in Acrobat. You can also filter meetings based on a date range."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 15,
+            "refined_text": "Then, download the meeting transcript and open it in Acrobat to use the AI features. Choose Select file to select and open the transcript in Acrobat. In Acrobat Home, select Add meeting transcripts under Third-party apps ."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 14,
+            "refined_text": "\u2022 Parallel processing : While you engage with the summarized sections, the feature extracts headings, and generates summaries for the subsequent sections. The key advantages of streaming summaries include: \u2022 Real-time streaming : As Acrobat or Acrobat Reader processes a lengthy PDF, it concurrently streams summaries for sections it has already analyzed. \u2022 Segmented display : When you start generating the summary for your content, you'll immediately see summarized content for the sections that the Generative summary feature finished processing."
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "page_number": 26,
+            "refined_text": "Do one of the following: \u2022 (Outlook) Choose Acrobat > Setup Automatic Archival . Then select options for Frequency and the time of day at which automatic archiving occurs. \u2022 (Lotus Notes) Choose Actions > Setup Automatic Archival ."
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 7,
+            "refined_text": "The following options appear when you open the PDFMaker settings from within Microsoft Outlook or Lotus Notes. Show This Number Of Recent Archives (Outlook only) When converting email messages and folders, the Adobe PDF > [ Convert Selected Messages and Convert Selected Folders ] menus can list recently created PDFs to append. If you\u2019re creating PDFs that are distributed widely, choose an earlier level to ensure that all users can view and print the document."
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "page_number": 12,
+            "refined_text": "For a comparison chart, see Compatible web browsers and PDFMaker applications | Acrobat, Reader . PDFMaker is an Acrobat feature that operates within many business applications, such as Microsoft Office applications, AutoCAD, and Lotus Notes. Note: Some PDFMaker features are not available in certain versions of the authoring applications."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 2,
+            "refined_text": "It can analyze multiple documents to uncover similarities, differences, and key patterns. It can extract information accurately from tables and complex documents. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts."
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 10,
+            "refined_text": "You can scan your paper documents and upload them to Acrobat to get concise summaries and accurate answers to your questions. It also breaks down complex language into key details, making it easy to read and understand contracts directly in Acrobat. AI Assistant supports scanned documents."
+        }
+    ]
+}
