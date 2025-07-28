@@ -1,0 +1,31 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+.env
+.venv
+venv/
+ENV/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project-specific ignores
+# Ignore the downloaded model files (should be fetched by models.py)
+/models/
+
+# Ignore the generated output files
+/output/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
